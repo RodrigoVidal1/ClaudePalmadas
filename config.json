@@ -1,0 +1,16 @@
+{
+  "samplerate": null,
+  "block_ms": 20,
+  "peak_threshold": 0.2,
+  "rms_threshold": 0.05,
+  "refractory_ms": 120,
+  "min_gap_ms": 120,
+  "max_gap_ms": 900,
+  "window_ms": 2200,
+  "cooldown_ms": 5000,
+  "claps_required": 2,
+  "base_dir": "C:\\dev",
+  "launcher_script": "C:\\dev\\.priv\\setupPalmadas\\launcher.ps1",
+  "input_device": null,
+  "log_path": "C:\\dev\\.priv\\setupPalmadas\\clap_listener.log"
+}
