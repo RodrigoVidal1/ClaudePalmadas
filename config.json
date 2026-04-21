@@ -1,8 +1,8 @@
 {
   "samplerate": null,
   "block_ms": 20,
-  "peak_threshold": 0.2,
-  "rms_threshold": 0.05,
+  "peak_threshold": 0.12,
+  "rms_threshold": 0.03,
   "refractory_ms": 120,
   "min_gap_ms": 120,
   "max_gap_ms": 900,
